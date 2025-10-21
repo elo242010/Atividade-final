@@ -1,5 +1,6 @@
 # Atividade-final Ester Alves e Eloise Santos
 Atividade final da matéria de versionamento
+Estudantes: Ester Alves e Eloise Santos
 README.md
 
 ## Perguntas:
